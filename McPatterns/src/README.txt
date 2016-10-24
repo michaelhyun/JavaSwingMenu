@@ -1,7 +1,4 @@
-user: 009828299 (Hyun, Michael)
-
-I could not get the JAR file to work. I tried different things for 2 hours and honestly I could not find out how to do it.It said it 
-could not find my class, but I tried to change MAIN CLASS in manifest and it still didnt work.
+I could not get the JAR file to work. 
 
 Design Patterns
 
