@@ -1,4 +1,3 @@
-I could not get the JAR file to work. 
 
 Design Patterns
 
